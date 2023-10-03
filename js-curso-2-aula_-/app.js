@@ -1,5 +1,5 @@
 let sortNumbersList = [];
-let numbLimit = 1000;
+let numbLimit = 10;
 let getRandomNumber = randomNumber();
 let newGame = document.getElementById('reset').removeAttribute('disabled');
 
